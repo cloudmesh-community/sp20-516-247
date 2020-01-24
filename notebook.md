@@ -13,7 +13,7 @@ the last activities first (e.g. in reverse cronological order by week)
 * :o2: Choose project, update G sheet
 * :o2: Share findings on Piazza
 * :o2: Install multipass and do assignments: E.Multipass.1, E.Multipass.5
-* :o2: Setup and activate ENV3
+* :+1: Setup and activate venv
 
 
 # Week Fri 01/13/20 - 01/19/20
