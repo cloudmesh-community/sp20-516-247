@@ -18,8 +18,8 @@ the last activities first (e.g. in reverse cronological order by week)
 
 # Week Fri 01/13/20 - 01/19/20
 
-* :+1: Setup python 3.8.1, update pip
 * :+1: Attended lab session
-* :+1: Install Windows edu version, order ram 
 * :+1: Setup python 3.8.1
+* :+1: Share bio on Piazza
+* :+1: Fill class survey
 
