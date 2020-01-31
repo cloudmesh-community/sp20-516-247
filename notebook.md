@@ -2,7 +2,7 @@
 
 ## Week 01/25/20 - 01/31/20
 
-* Create and update `venv-windows.md`
+- [ ] Create and update `venv-windows.md`
 * Choose project, update G sheet
 * Share findings on Piazza
 * Install multipass and do assignments: E.Multipass.1, E.Multipass.5
@@ -10,7 +10,7 @@
 * Try writing Provider class methods - https://piazza.com/class/k4xfd8nxutk4ka?cid=113
 * Do Mini assignment: Windows: Switch on and off hyper-v - https://piazza.com/class/k4xfd8nxutk4ka?cid=106
 * Go through updated book
-* Datacenter
+* :todo: Datacenter assignment - [G sheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=0)
 
 ## Week 01/18/20 - 01/24/20
 
