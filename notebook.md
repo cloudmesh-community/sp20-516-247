@@ -2,6 +2,8 @@
 
 ## Week 01/25/20 - 01/31/20
 
+* Install cloudmesh
+* Pipe equivalent in Windows of pipe in linux
 * Create and update `venv-windows.md`
 * Choose project, update G sheet
 * Share findings on Piazza
