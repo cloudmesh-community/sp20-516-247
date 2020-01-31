@@ -18,6 +18,10 @@
     E.Datacenter.5
     E.Datacenter.8
   * Optional: E.Datacenter.9
+* Read Architecture section from CC book
+* Check deadlines
+* Write tech review chapter in your directory at `chapter/report.md`
+
 
 ## Week 01/18/20 - 01/24/20
 
