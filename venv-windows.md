@@ -1,4 +1,4 @@
-Installing venv on `Windows 10 edu` with `Python 3.8.1`:
+Installing venv on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
 
 1. Open `Git Bash` and go to base directory
 
