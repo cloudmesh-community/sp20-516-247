@@ -10,7 +10,14 @@
 * Try writing Provider class methods - https://piazza.com/class/k4xfd8nxutk4ka?cid=113
 * Do Mini assignment: Windows: Switch on and off hyper-v - https://piazza.com/class/k4xfd8nxutk4ka?cid=106
 * Go through updated book
-* :todo: Datacenter assignment - [G sheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=0)
+* Datacenter assignment - [G sheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=0)
+  * E.Datacenter.2.a
+    E.Datacenter.2.b
+    E.Datacenter.3
+    E.Datacenter.4
+    E.Datacenter.5
+    E.Datacenter.8
+  * Optional: E.Datacenter.9
 
 ## Week 01/18/20 - 01/24/20
 
