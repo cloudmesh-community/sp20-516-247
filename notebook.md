@@ -2,7 +2,7 @@
 
 ## Week 01/25/20 - 01/31/20
 
-- [ ] Create and update `venv-windows.md`
+* Create and update `venv-windows.md`
 * Choose project, update G sheet
 * Share findings on Piazza
 * Install multipass and do assignments: E.Multipass.1, E.Multipass.5
