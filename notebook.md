@@ -1,5 +1,9 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 02/01/20 - 02/07/20
+
+* Change name, hid in chapter md file
+
 ## Week 01/25/20 - 01/31/20
 
 * Install cloudmesh
@@ -33,7 +37,7 @@
 * Create Chameleon cloud account
 * Setup and activate venv
 
-# Week 01/13/20 - 01/17/20
+## Week 01/13/20 - 01/17/20
 
 * Attended lab session
 * Setup python 3.8.1
