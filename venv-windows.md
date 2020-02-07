@@ -1,15 +1,33 @@
 Installing venv on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
 
-1. Open `Git Bash` or `Pycharm` and go to base directory
+1. Open `Git Bash` or `Cmder` and go to base directory (by default it's `C:\Users\your_username`)
 
-2. Create a folder ENV3 using `mkdir ENV3`
+2. Create a folder ENV3 using `mkdir ENV3` but don't go inside it
 
-3. Run `python3 -m venv  ~/ENV3` from base directory
+3. Install `virtualenv` by: `pip install virtualenv` (referred from [this](https://virtualenv.pypa.io/en/latest/installation.html) link)
 
-4. Run `ENV3\Scripts\activate.bat`
+3. Run `virtualenv ENV3`
 
-To run on `Mac OS`, simply replace the step 4 above with:
+4. Run `ENV3\Scripts\activate.bat` (Don't run `activate` instead of `activate.bat`)
 
-4. Run `source ~/ENV3/bin/activate`
+5. You will see something like this on your terminal:
+
+`C:\Users\your_username (ENV3) λ`
+
+Here the `(ENV3)` means that your virtual environment is successfully activated
+
+6. Check `python --version` and `pip --version` version to verify
+
+7. Add to PATH:
+
+Refer [this](https://cloudmesh.github.io/cloudmesh-manual/installation/install.html#venv-setup-on-windows) link
+
+
+Errors experienced:
+
+1. [How to](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html) correctly use your ENV3 as interpreter in Pycharm?
+
+2. If `python` or `pip` are properly installed on your system but not `ENV3`, try exiting the enviroment, deleting the folder using `rm -rf ENV3` and then redoing the steps from (1)
+
 
 
