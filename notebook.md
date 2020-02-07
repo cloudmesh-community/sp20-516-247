@@ -2,6 +2,7 @@
 
 ## Week 02/04/20 - 02/10/20
 
+* [Markdown notation](https://raw.githubusercontent.com/cloudmesh-community/book/master/chapters/preface/notation.md)
 * Change name, hid in chapter md file
 * Install new 16 gb ram
 * Watch online lecture
