@@ -3,6 +3,7 @@
 ## Week 02/01/20 - 02/07/20
 
 * Change name, hid in chapter md file
+* Install new 16 gb ram
 * Watch online lecture
 * Read Cloud Architectures chapter in CC book
 * Check deadlines
@@ -10,7 +11,6 @@
 * Project proposal - deadline 10th Feb
 * Checkout [projects](https://cloudmesh.github.io/cloudmesh-manual/projects/)
 * Check [Openstack link](https://kvm.tacc.chameleoncloud.org/project/)
-
 
 ## Week 01/25/20 - 01/31/20
 
