@@ -1,6 +1,6 @@
 # Notebook Akshay Gupta sp20-516-247
 
-## Week 02/01/20 - 02/07/20
+## Week 02/04/20 - 02/10/20
 
 * Change name, hid in chapter md file
 * Install new 16 gb ram
@@ -12,7 +12,7 @@
 * Checkout [projects](https://cloudmesh.github.io/cloudmesh-manual/projects/)
 * Check [Openstack link](https://kvm.tacc.chameleoncloud.org/project/)
 
-## Week 01/25/20 - 01/31/20
+## Week 01/28/20 - 01/33/20
 
 * Install cloudmesh
 * Pipe equivalent in Windows of pipe in linux
@@ -36,7 +36,7 @@
 * Check deadlines
 * Write tech review chapter in your directory at `chapter/report.md`
 
-## Week 01/18/20 - 01/24/20
+## Week 01/21/20 - 01/27/20
 
 * Install Windows edu version
 * Order new 16 gb ram
@@ -44,7 +44,7 @@
 * Create Chameleon cloud account
 * Setup and activate venv
 
-## Week 01/13/20 - 01/17/20
+## Week 01/13/20 - 01/20/20
 
 * Attended lab session
 * Setup python 3.8.1
