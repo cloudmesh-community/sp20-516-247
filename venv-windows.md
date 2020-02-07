@@ -18,9 +18,7 @@ Here the `(ENV3)` means that your virtual environment is successfully activated
 
 6. Check `python --version` and `pip --version` version to verify
 
-7. Add to PATH:
-
-Refer [this](https://cloudmesh.github.io/cloudmesh-manual/installation/install.html#venv-setup-on-windows) link
+7. Add to PATH: Refer [this](https://cloudmesh.github.io/cloudmesh-manual/installation/install.html#venv-setup-on-windows) link
 
 
 Errors experienced:
