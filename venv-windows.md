@@ -12,13 +12,13 @@ Installing venv on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
 
 5. You will see something like this on your terminal:
 
-`C:\Users\your_username (ENV3) λ`
+   * `C:\Users\your_username (ENV3) λ`
 
-Here the `(ENV3)` means that your virtual environment is successfully activated
+   * Here the `(ENV3)` means that your virtual environment is successfully activated
 
 6. Check `python --version` and `pip --version` version to verify
 
-7. Add to PATH: Refer [this](https://cloudmesh.github.io/cloudmesh-manual/installation/install.html#venv-setup-on-windows) link
+7. Add to `PATH`: Refer [this](https://cloudmesh.github.io/cloudmesh-manual/installation/install.html#venv-setup-on-windows) link
 
 
 Errors experienced:
