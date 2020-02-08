@@ -1,3 +1,10 @@
+:o2: this process is not correct as you do not need `pip install virtualenv` instead youmust use 
+
+python -m venv ENV3
+
+python 3.8.1 comes build in with a virtualenv framework, if you need to do a separatepip install for this you use the wrong way of using it or have a proken version of python
+
+
 Installing venv on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
 
 1. Open `Git Bash` or `Cmder` and go to base directory (by default it's `C:\Users\your_username`)
