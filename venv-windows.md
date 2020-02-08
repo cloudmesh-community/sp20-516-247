@@ -25,7 +25,7 @@ Errors experienced:
 
 1. [How to](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html) correctly use your ENV3 as interpreter in Pycharm?
 
-2. If `python` or `pip` are properly installed on your system but not `ENV3`, try exiting the enviroment, deleting the folder using `rm -rf ENV3` and then redoing the steps from (1)
+2. If `python` or `pip` are properly installed on your system but not on `ENV3`, try exiting the enviroment, deleting the folder using `rm -rf ENV3` and then redoing the steps from (1)
 
 
 
