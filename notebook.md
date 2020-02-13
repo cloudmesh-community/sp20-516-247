@@ -22,7 +22,7 @@
     E.Datacenter.8
   * Optional: E.Datacenter.9
 
-## Week 01/28/20 - 01/33/20
+## Week 01/28/20 - 02/03/20
 
 * Install cloudmesh
 * Pipe equivalent in Windows of pipe in linux
