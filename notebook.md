@@ -4,6 +4,7 @@
 * Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
 * Start learning `electron`
 * Clean install `venv` instead of `virtualenv`
+* Run `cl` in `cmd`
 
 ## Week 02/04/20 - 02/10/20
 
