@@ -2,9 +2,11 @@
 
 ## Week 02/11/20 - 02/17/20
 * Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
-* Start learning `electron`
+* Try `electron` hello-world
+* Try `Next.js`
 * Clean install `venv` instead of `virtualenv`
-* Run `cl` in `cmd`
+* Run `cl` and `nmake` in `cmd`
+* `cms windows check` fails - Check why
 
 ## Week 02/04/20 - 02/10/20
 
