@@ -1,5 +1,11 @@
 :o2: this process is not correct as you do not need `pip install virtualenv` instead youmust use 
 
+:o2: please use our instructions first. If they do not work, let s know
+
+e.g.
+
+remove your instructiosn for virtualenv
+
 python -m venv ENV3
 
 python 3.8.1 comes build in with a virtualenv framework, if you need to do a separatepip install for this you use the wrong way of using it or have a proken version of python
