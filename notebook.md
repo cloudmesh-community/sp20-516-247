@@ -1,10 +1,13 @@
 # Notebook Akshay Gupta sp20-516-247
 
 ## Week 02/11/20 - 02/17/20
-
+* Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
+* Start learning `electron`
+* Clean install `venv` instead of `virtualenv`
 
 ## Week 02/04/20 - 02/10/20
 
+* Meet professor for `Cloudmesh GUI` project
 * [Markdown notation](https://raw.githubusercontent.com/cloudmesh-community/book/master/chapters/preface/notation.md)
 * Change name, hid in chapter md file
 * Install new 16 gb ram
@@ -24,6 +27,7 @@
     E.Datacenter.5
     E.Datacenter.8
   * Optional: E.Datacenter.9
+* Checkout [Cloudmesh GUI project](https://cloudmesh.github.io/cloudmesh-manual/projects/project-gui.html)
 
 ## Week 01/28/20 - 02/03/20
 
