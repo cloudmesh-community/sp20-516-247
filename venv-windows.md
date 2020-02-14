@@ -1,4 +1,4 @@
-Installing venv on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
+Installing `venv` on `Windows 10 edu` with `Python 3.8.1` and `pip 20.0.2`:
 
 1. Open `Git Bash` or `Cmder` and go to base directory (by default it's `C:\Users\your_username`)
 
