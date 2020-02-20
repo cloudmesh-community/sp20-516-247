@@ -5,6 +5,6 @@ owner:
   community: "516"
   semester: "sp20"
 project:
-  - keyword: Cloudmesh GUI
-    title: Cloudmesh GUI
-    url: https://github.com/cloudmesh-community/sp20-516-247
+  keyword: Cloudmesh GUI
+  title: Cloudmesh GUI
+  url: https://github.com/cloudmesh-community/sp20-516-247
