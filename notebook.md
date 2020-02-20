@@ -6,7 +6,7 @@
 * Try `Next.js`
 * Clean install `venv` instead of `virtualenv`
 * Run `cl` and `nmake` in `cmd`
-* Run `nextron` prototype for `cloudmesh-javascript` in `Windows` using both methods
+* Run `nextron` prototype for `cloudmesh-javascript` in `Windows` using `.exe` and `yarn run dev`
 
 ## Week 02/04/20 - 02/10/20
 
