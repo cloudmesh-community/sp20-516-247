@@ -1,6 +1,10 @@
 ## sp20-516-247 E.Multipass.1
 
-*Download and install multipass exe for windows at https://github.com/canonical/multipass/releases/download/v1.0.0/multipass-1.0.0+win-win64.exe After installation verify at cmd prompt*
+> *Download and install multipass exe for windows at 
+
+> https://github.com/canonical/multipass/releases/download/v1.0.0/multipass- 1.0.0+win-win64.exe
+
+> After installation verify at cmd prompt*
 
 OS: Windows 10 edu
 
@@ -12,11 +16,13 @@ gives
 
 ## sp20-516-247 E.Multipass.5
 
-*Provide more extensive examples for find
+> *Provide more extensive examples for find
 
-https://multipass.run/docs/find-command
-https://launchpad.net/ubuntu/+series
-Provide a list of images that are supported on your system.*
+> https://multipass.run/docs/find-command
+
+> https://launchpad.net/ubuntu/+series
+
+> Provide a list of images that are supported on your system.*
 
 `multipass find`
 
