@@ -1,0 +1,7 @@
+profile:
+  firstname: Akshay
+  lastname: Gupta
+  email: guptaaks@iu.edu
+  user: guptaaks
+  github: guptaaks
+  publickey: ~/.ssh/id_rsa.pub
