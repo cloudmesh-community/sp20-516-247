@@ -1,5 +1,11 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 02/18/20 - 02/24/20
+* Setup `yamllint`
+* Check Slack channel
+* Check projectID on Chameleon cloud
+* 
+
 ## Week 02/11/20 - 02/17/20
 * Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
 * Try `electron` hello-world
