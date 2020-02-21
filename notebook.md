@@ -7,6 +7,7 @@
 * Run `cms test` - throwing error
 * Read `Containers` chapter in Cloud Computing book
 * Checkout old github repo for [cloudmesh-gui](https://github.com/cloudmesh-community/graphql)
+* Change password for `mongodb` using: `mongo admin --username admin --password mypassword` inside ENV3
 
 ## Week 02/11/20 - 02/17/20
 * Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
