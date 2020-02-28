@@ -1,5 +1,11 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 02/25/20 - 03/02/20
+* Setup `Chameleon cloud` using Horizon - watch video
+* Setup `cms vm boot` - [Piazza](https://piazza.com/class/k4xfd8nxutk4ka?cid=227)
+* Read `React hooks` docs
+* Read book
+
 ## Week 02/18/20 - 02/24/20
 * Setup `yamllint`
 * Check Slack channel
@@ -9,6 +15,7 @@
 * Checkout old github repo for [cloudmesh-gui](https://github.com/cloudmesh-community/graphql)
 * Change password for `mongodb`
 * Post on Piazza for `cms vm list --refresh` install instructions
+* Discuss with Josh about project next steps
 
 ## Week 02/11/20 - 02/17/20
 * Check [Chameleon cloud](https://www.chameleoncloud.org/login/?next=/user/projects/37347/) login
