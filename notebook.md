@@ -1,9 +1,15 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 03/03/20 - 03/09/20
+* Get `cms vm list --output=json` to work on Windows
+* Update on Github and Slack
+* E-meet with Josh on Slack
+* Next week plan: 1. Build functions to get data out of json 2. Build UI around that data
+
 ## Week 02/25/20 - 03/02/20
 * Setup `Chameleon cloud` using Horizon - watch video
 * Setup `cms vm boot` - [Piazza](https://piazza.com/class/k4xfd8nxutk4ka?cid=227)
-* Read `React hooks` docs
+* Read `electron` docs
 * Read book
 
 ## Week 02/18/20 - 02/24/20
