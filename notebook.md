@@ -1,7 +1,9 @@
 # Notebook Akshay Gupta sp20-516-247
 
 ## Week 03/03/20 - 03/09/20
-* Get `cms vm list --output=json` to work on Windows
+* Get `cms vm list --output=json` to work in `cloudmesh-javascript` on Windows
+* Read detailed docs about `electron ipcrenderer` and `ipcmain` 
+* Read about styling in `next.js` `css-in-js`
 * Update on Github and Slack
 * E-meet with Josh on Slack
 * Next week plan: 1. Build functions to get data out of json 2. Build UI around that data
