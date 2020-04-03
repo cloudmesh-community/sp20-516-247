@@ -1,5 +1,10 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 03/10/20 - 03/16/20
+* Built functions to get data
+* Updated Github
+* Read more about React useEffect hooks
+
 ## Week 03/03/20 - 03/09/20
 * Get `cms vm list --output=json` to work in `cloudmesh-javascript` on Windows
 * Read detailed docs about `electron ipcrenderer` and `ipcmain` 
