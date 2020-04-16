@@ -1,5 +1,14 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 04/08/20 - 04/14/20
+* Added data-table components with all functions using material-ui
+* Enabled mock data render
+* Code merged
+
+## Week 04/01/20 - 04/07/20
+* Added basic UI components for cards with mock data 
+* Added material ui components to codebase
+
 ## Week 03/10/20 - 03/16/20
 * Built functions to get data
 * Updated Github
