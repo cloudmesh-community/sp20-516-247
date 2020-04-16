@@ -9,6 +9,9 @@
 * Added basic UI components for cards with mock data 
 * Added material ui components to codebase
 
+## Week 03/17/20 - 03/31/20
+* None - Spring break
+
 ## Week 03/10/20 - 03/16/20
 * Built functions to get data
 * Updated Github
