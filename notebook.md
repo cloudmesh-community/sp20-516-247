@@ -1,4 +1,7 @@
 # Notebook Akshay Gupta sp20-516-247
+* Fix columns `getCellValue`
+* Change to material ui font and compoenents everywhere
+* Fix `error: metadata not defined`
 * Fix prettier bug for path
 * Fix path error for `cms-send: Invalid CMS binary.`
 
