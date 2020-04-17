@@ -1,4 +1,6 @@
 # Notebook Akshay Gupta sp20-516-247
+* Fix prettier bug for path
+* Fix path error for `cms-send: Invalid CMS binary.`
 
 ## Week 04/08/20 - 04/14/20
 * Added `data-table` components with all functions using material-ui
