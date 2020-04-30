@@ -1,4 +1,11 @@
 # Notebook Akshay Gupta sp20-516-247
+
+## Week 04/22/20 - 04/29/20
+* Fix all issues mentioned in [github issue 14](https://github.com/cloudmesh/cloudmesh-javascript/issues/14)
+* Move `cloudmesh-javascript` folder to `cm` dir
+* Test `cloudmesh-installer get javascript` command
+
+## Week 04/15/20 - 04/21/20
 * Fix columns `getCellValue`
 * Change to material ui font and compoenents everywhere
 * Fix `error: metadata not fetched`
