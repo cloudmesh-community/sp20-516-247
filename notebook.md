@@ -1,6 +1,6 @@
 # Notebook Akshay Gupta sp20-516-247
 
-## Week 04/22/20 - 04/29/20
+## Week 04/22/20 - 04/28/20
 * Fix all issues mentioned in [github issue 14](https://github.com/cloudmesh/cloudmesh-javascript/issues/14)
 * Move `cloudmesh-javascript` folder to `cm` dir
 * Test `cloudmesh-installer get javascript` command
