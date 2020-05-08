@@ -1,5 +1,23 @@
 # Notebook Akshay Gupta sp20-516-247
 
+## Week 05/06/20 - End
+* Add required info to the readme
+* Add `help` page
+* Move table actions to top with others
+* Add `contributors` page and text
+* `Unavailable` status for VMs not available
+* `Delete` feature
+* Final touches to the UI
+
+## Week 04/29/20 - 05/05/20
+* Almost final submission
+* Take notes from Professor suggestions
+* Implement `cloud selector` tabs
+* Start / Stop all in table
+* Any remaining UI fixes
+* Look at how to get `cms viewer start` to work on windows
+* Fix row padding
+
 ## Week 04/22/20 - 04/28/20
 * Fix all issues mentioned in [github issue 14](https://github.com/cloudmesh/cloudmesh-javascript/issues/14)
 * Move `cloudmesh-javascript` folder to `cm` dir
@@ -7,7 +25,7 @@
 
 ## Week 04/15/20 - 04/21/20
 * Fix columns `getCellValue`
-* Change to material ui font and compoenents everywhere
+* Change to material ui font and components everywhere
 * Fix `error: metadata not fetched`
 * Fix prettier bug for path
 * Fix path error for `cms-send: Invalid CMS binary.`
